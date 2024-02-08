@@ -1,6 +1,7 @@
 # Magneto Suture
 
 Magneto Suture is the code repository for the MDPI Actuators journal paper submission titled: "A Control Interface for Autonomous Positioning of Magnetically Actuated Particles using an Artificial Neural Network."
+
 By: Victor Huynh, Basam Butawak, Minh Quan Do, Elizabeth Ankrah, Irving N. Weinberg, Nathalia Peixoto, Qi Wei, Lamar O. Mair
 
 ## Abstract

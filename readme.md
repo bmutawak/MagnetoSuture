@@ -11,3 +11,13 @@ Electromagnet arrays hold significant potential in untethered guidance of roboti
 ## Data
 
 The `data/` directory contains experimental results observed in the study and plotting utilities.
+
+## Code
+
+The `src/` directory contains the source code for the Magneto software described in the paper submission.
+
+## Documentation and Resources
+
+The `docs/` directory contains documentation on the Magneto software including installation and setup.
+
+The `resources/` directory contains other resources for the project.

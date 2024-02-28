@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>Icons/Forward_Arrow.png</file>
+        <file>Icons/Pause_Icon.png</file>
+        <file>Icons/Play_Icon.png</file>
+        <file>Icons/Stop_Icon.png</file>
+        <file>Icons/camera-512.png</file>
+        <file>Icons/Settings_Icon.png</file>
+        <file>Icons/Save_Icon_Black.png</file>
+        <file>Icons/Save_Icon_Cyan.png</file>
+        <file>Icons/Save_Icon_Blue.png</file>
+        <file>Icons/Draw_Icon.png</file>
+        <file>Icons/Erase_Icon.png</file>
+        <file>Icons/Load_Icon.png</file>
+        <file>Icons/Force_Stop_Icon.png</file>
+        <file>Icons/MagnetoLOGO.png</file>
+    </qresource>
+</RCC>
